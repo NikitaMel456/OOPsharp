@@ -1,0 +1,3 @@
+Scaner:
+Price if scaner=250 $
+Functions:Print-False, Scan-True

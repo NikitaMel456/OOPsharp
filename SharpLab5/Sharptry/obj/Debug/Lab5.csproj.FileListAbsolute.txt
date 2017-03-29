@@ -1,0 +1,5 @@
+D:\day_X\SharpLab5\Sharptry\bin\Debug\Sharptry.exe
+D:\day_X\SharpLab5\Sharptry\bin\Debug\Sharptry.pdb
+D:\day_X\SharpLab5\Sharptry\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+D:\day_X\SharpLab5\Sharptry\obj\Debug\Sharptry.exe
+D:\day_X\SharpLab5\Sharptry\obj\Debug\Sharptry.pdb

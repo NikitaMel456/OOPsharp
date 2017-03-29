@@ -1,0 +1,3 @@
+Printer:
+Price if printer=400 $
+Functions:Print-True, Scan-False

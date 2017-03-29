@@ -1,0 +1,17 @@
+Sharptry.Scaner
+Sharptry.Scaner Method CountInst
+Sharptry.Scaner Method Cost
+Sharptry.Scaner Method get_Y
+Sharptry.Scaner Method set_Y
+Sharptry.Scaner Method CanPrint
+Sharptry.Scaner Method CanScan
+Sharptry.Scaner Method WriteToFile
+Sharptry.Scaner Method Work
+System.Object Method ToString
+System.Object Method Equals
+System.Object Method GetHashCode
+System.Object Method GetType
+Sharptry.Scaner Constructor .ctor
+Sharptry.Scaner Property Y
+Sharptry.Scaner Field vah
+Sharptry.Product Field price
