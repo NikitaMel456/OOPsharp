@@ -1,0 +1,5 @@
+Collection ArrayList:
+ArrayList<T>[0]=Lab_4Sharp.Konus
+
+ArrayList<T>[1]=Lab_4Sharp.Konus
+
